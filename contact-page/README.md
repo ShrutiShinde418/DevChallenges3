@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://testimonial-page-sepia.vercel.app/">
+    <a href="https://contact-page-mauve.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ShrutiShinde418/DevChallenges3/tree/main/testimonial-page">
+    <a href="https://github.com/ShrutiShinde418/DevChallenges3/tree/main/contact-page">
       Solution
     </a>
     <span> | </span>
